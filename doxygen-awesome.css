@@ -1938,7 +1938,7 @@ div.dynheader img[src="closed.png"] {
 
 hr {
     margin-bottom: var(--spacing-large);
-    margin-top: 8.0em;
+    margin-top: 10.0em;
     height: 1px;
     background-color: var(--separator-color);
     border: 0;
